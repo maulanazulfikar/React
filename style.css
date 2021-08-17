@@ -1,0 +1,14 @@
+h1 {
+    background-color: rgb(190, 190, 190);
+    color: rgb(255, 238, 0);
+    font-size: 100px;
+    padding: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+}
+
+h2 {
+    color: rgba(236, 116, 18, 0.925);
+    font-size: 50px;
+    text-align: center;
+}
